@@ -1,0 +1,3 @@
+Decide where to order from.
+Pick out which pizza you want.
+Order said pizza.
